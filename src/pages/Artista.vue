@@ -80,7 +80,7 @@ export default {
 .page-artista{
     background-size: cover;
     height: 1300px;
-    background-attachment: fixed
+    background-attachment: fixed;
 }
 
 .mini-info{

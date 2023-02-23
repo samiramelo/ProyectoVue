@@ -8,7 +8,7 @@
             <h4 class = "cancion-duracion"> {{ cancion.duracion }}</h4>
         </div>
         <div class="barra-de-reproduccion">
-            <img src="../assets/barra:de:eproduccion.png" alt="barra de reproduccion">
+            <img src="../assets/BarraDeReproduccion.png" alt="barra de reproduccion">
         </div>
         <div>
             <h2 class="canciones-del-album">Canciones del album:</h2>
